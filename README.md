@@ -1,4 +1,4 @@
-#Análisis y Reporte sobre el desempeño de un modelo de Aprendizaje Automatico
+# Análisis y Reporte sobre el desempeño de un modelo de Aprendizaje Automatico
 
 En esta asignatura se desarrollo una implementacion de entrenamiento en python sobre un modelo de red neuronal en el cual se trabajo con la arquitectura de LeNet-5 con la base de datos Fashion MNIST. El proposito principal de este modelo es poder clasificar de manera adecuada las prendas de ropa que se encuentran en la base de datos de Fashion MNIST con ayuda de la red neuronal creada y checando el ajuste de sus hiper parametros para poder implementar los que mejoren al modelo.
 
