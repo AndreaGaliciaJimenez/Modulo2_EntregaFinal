@@ -1,1 +1,9 @@
-# Modulo2_EntregaFinal
+#Análisis y Reporte sobre el desempeño de un modelo de Aprendizaje Automatico
+
+En esta asignatura se desarrollo una implementacion de entrenamiento en python sobre un modelo de red neuronal en el cual se trabajo con la arquitectura de LeNet-5 con la base de datos Fashion MNIST. El proposito principal de este modelo es poder clasificar de manera adecuada las prendas de ropa que se encuentran en la base de datos de Fashion MNIST con ayuda de la red neuronal creada y checando el ajuste de sus hiper parametros para poder implementar los que mejoren al modelo.
+
+LeNet-5 es una arquitectura de red neuronal convolucional (CNN) diseñada para la clasificación de dígitos escritos a mano. Esta consta de capas de convolución, submuestreo y capas completamente conectadas. LeNet-5 se compone de capas convolucionales C1 y C3, una capa convolucional C5 sin submuestreo, una capa completamente conectada F6 y una capa de salida con 10 unidades para clasificar. Aunque es relativamente simple en comparación con las CNN modernas, LeNet-5 fue un hito clave en el desarrollo de redes neuronales convolucionales para tareas de clasificación de imágenes.
+
+Se decidio implementar el modelo de una red neuronal ya que, ademas de ser un tema visto recientemente en clase, cuenta con una capacidad para aprender automáticamente patrones complejos de datos, adaptabilidad a una variedad de aplicaciones, alto rendimiento en términos de precisión y generalización, capacidad de automatizar la extracción de características y su escalabilidad para manejar conjuntos de datos grandes, lo que las convierte en una herramienta valiosa en el aprendizaje automático y el procesamiento de datos.
+
+En este repositorio se encuentra el codigo completo de la asignatura asi como un reporte en pdf con toda la informacion especifica sobre el codigo y detalles extras. Es importante mencionar, que en esta ocasion no hubo necesidad de cargar un archivo csv (por lo que se puede correr el codigo completo tal y como esta) ya que la biblioteca de keras implementa los datos necesarios de forma automatica (por si no se ve un csv en el repositorio).
